@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22f92dc3-62ca-40d0-a292-d58699033bc0" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="73" />
+    <option name="y" value="-22" />
+    <option name="width" value="1750" />
+    <option name="height" value="983" />
+  </component>
+  <component name="ProjectId" id="1XkUGubXJ1cshgvcJWaoUd56ZU7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="final_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22f92dc3-62ca-40d0-a292-d58699033bc0" name="Default" comment="" />
+      <created>1526242997195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526242997195</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2344" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581589521730">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2344" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/41.24.1879.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581589521730" />
+    <state width="1897" height="296" key="GridCell.Tab.0.bottom" timestamp="1581589647827">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="296" key="GridCell.Tab.0.bottom/41.24.1879.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581589647827" />
+    <state width="1897" height="296" key="GridCell.Tab.0.center" timestamp="1581589647827">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="296" key="GridCell.Tab.0.center/41.24.1879.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581589647827" />
+    <state width="1897" height="296" key="GridCell.Tab.0.left" timestamp="1581589647826">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="296" key="GridCell.Tab.0.left/41.24.1879.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581589647826" />
+    <state width="1897" height="296" key="GridCell.Tab.0.right" timestamp="1581589647827">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="296" key="GridCell.Tab.0.right/41.24.1879.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581589647827" />
+    <state x="2374" y="174" key="SettingsEditor" timestamp="1581589513230">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2374" y="174" key="SettingsEditor/41.24.1879.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581589513230" />
+  </component>
+</project>
