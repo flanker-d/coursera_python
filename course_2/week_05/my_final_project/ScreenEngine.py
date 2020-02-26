@@ -42,8 +42,6 @@ class GameSurface(ScreenHandle):
         self.sprite_size = self.game_engine.sprite_size
         self.half_screen_x = (self.get_width() // self.sprite_size) // 2
         self.half_screen_y = (self.get_height() // self.sprite_size) // 2
-        self.center_x = self.half_screen_x
-        self.center_y = self.half_screen_y
         self.map_x_size = len(self.game_engine.map[0])
         self.map_y_size = len(self.game_engine.map)
         # FIXME save engine and send it to next in chain
@@ -54,24 +52,18 @@ class GameSurface(ScreenHandle):
     def calc_left_top_corner(self):
         hero_x, hero_y = self.game_engine.hero.position
 
-        delta_x = hero_x - self.center_x
-        self.center_x += delta_x
-
-        delta_y = hero_y - self.center_y
-        self.center_y += delta_y
-
-        min_x = self.center_x - self.half_screen_x
-        min_y = self.center_y - self.half_screen_y
+        min_x = hero_x - self.half_screen_x
+        min_y = hero_y - self.half_screen_y
 
         if min_x < 0:
             min_x = 0
         if min_y < 0:
             min_y = 0
 
-        if (self.map_x_size - self.center_x) < self.half_screen_x:
+        if (self.map_x_size - hero_x) < self.half_screen_x:
             min_x = self.map_x_size - 2 * self.half_screen_x
 
-        if (self.map_y_size - self.center_y) < self.half_screen_y:
+        if (self.map_y_size - hero_y) < self.half_screen_y:
             min_y = self.map_y_size - 2 * self.half_screen_y
 
         return min_x, min_y
