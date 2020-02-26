@@ -17,9 +17,7 @@ class AbstractObject(ABC):
         self.position = position
 
     def draw(self, display):
-        x, y = self.position
-        sprite_size = display.game_engine.sprite_size
-        display.blit(self.sprite, (x * sprite_size, y * sprite_size))
+        display.draw_object(self.sprite, self.position)
 
 
 class Interactive(ABC):
